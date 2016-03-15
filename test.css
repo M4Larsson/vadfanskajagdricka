@@ -1,0 +1,55 @@
+body {
+	background-image: url("bild2.jpg");
+	font-family: 'Open Sans', sans-serif;
+	color: #ffffff;
+	background-size: cover;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+
+h1{
+	margin:200px 50px 5px 336px;
+}
+
+#box{
+	margin: auto;
+	margin-top: 0px;
+	max-width: 50%;
+	line-height:1;
+	color:#FFF;
+	padding: 20px;
+	text-align: center;
+	background: rgba(0, 0, 0, 0.4);
+	border-radius: 5px;
+
+}
+
+.btn {
+	background-color:#81b71a;
+	border-radius:4px;
+	border:0px;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:12px 25px;
+	cursor:pointer;
+}
+
+.btn:active {
+	border:1px;
+	border-color: black;
+}
+
+.btn:hover {
+	background-color:#497000;
+}
+
+a {
+	color:#81b71a;
+}
+
+a:hover {
+	color:#497000;
+}
